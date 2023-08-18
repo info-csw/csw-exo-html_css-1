@@ -1,4 +1,4 @@
-# Exerice 1 - HTML/CSS
+# Exerice : HTML/CSS - prise en main github
 
 Ce premier exercice a pour objectif de réaliser votre premier dépôt sur Github.
 
