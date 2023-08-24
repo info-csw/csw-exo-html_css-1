@@ -1,10 +1,10 @@
 # Exerice : HTML/CSS - prise en main github
 
-Ce premier exercice a pour objectif de réaliser votre premier dépôt sur Github.
+**Objectifs :** Ce premier exerice couvre 2 objectifs 
+ - Concevoir une carte de recette pour un plat de votre choix en utilisant les bases du HTML et du CSS.
+ - Prendre en main Github et réaliser son premier dépôt.
 
 ## Exercice : Carte de recette
-
-**Objectif :** Concevoir une carte de recette pour un plat de votre choix en utilisant les bases du HTML et du CSS.
 
 ### Étapes :
 
