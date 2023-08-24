@@ -20,9 +20,8 @@
 #### 2. Stylisation avec CSS :
 
 - Modifier l'arrière-plan de la page avec une couleur claire ou un léger dégradé.
-- Appliquez une mise en page en colonnes, avec l'image et les ingrédients d'un côté, et les étapes de préparation de l'autre.
 - Appliquer une couleur, une taille et une police de caractère différente pour les titres, la liste et les paragraphes.
-- Encadrer votre image avec une bordure, et ajoutez-y un léger effet d'ombre.
+- Encadrer votre image avec une bordure, et arrondissez les coins de l'image.
 - Mettez en évidence la première étape et la dernière étape avec une couleur d'arrière-plan différente.
 
 #### 3. Pour aller plus loin :
